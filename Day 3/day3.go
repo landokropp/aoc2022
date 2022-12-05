@@ -106,6 +106,8 @@ func main() {
 				if s1 == s2 {
 					fmt.Println("check...:", s1, s2)
 
+					// rucksack 3 komplett durch -> suche nach buchstabe
+
 					if done == false {
 
 						// buchstabe nachschlagen welche Prio Zahl
@@ -121,8 +123,7 @@ func main() {
 					}
 
 				}
-
-				// Part two...
+				
 			}
 
 		}
